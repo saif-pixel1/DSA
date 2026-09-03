@@ -6,6 +6,7 @@ DSA Question
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/saif-pixel1/DSA/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/saif-pixel1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/saif-pixel1/DSA/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saif-pixel1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -21,4 +22,8 @@ DSA Question
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saif-pixel1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/saif-pixel1/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
