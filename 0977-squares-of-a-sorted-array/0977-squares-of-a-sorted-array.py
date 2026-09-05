@@ -5,13 +5,13 @@ class Solution:
         res = [0] * len(nums)
         i = len(nums) - 1
         while l<=r:
-            if nums[l]**2 < nums[r]**2:
+            if nums[l]*nums[l] < nums[r]*nums[r]:
                 # res.append(nums[r]**2)
-                res[i] = nums[r]**2
+                res[i] = nums[r]*nums[r]
                 r-=1
             else:
                 # res.append(nums[l]**2)
-                res[i] = nums[l]**2
+                res[i] = nums[l]*nums[l]
                 l+=1
             i-=1
         return res 
