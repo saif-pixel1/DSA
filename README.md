@@ -28,4 +28,12 @@ DSA Question
 | ------- |
 | [0118-pascals-triangle](https://github.com/saif-pixel1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saif-pixel1/DSA/tree/master/0119-pascals-triangle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/saif-pixel1/DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/saif-pixel1/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
