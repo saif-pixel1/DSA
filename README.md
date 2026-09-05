@@ -10,6 +10,7 @@ DSA Question
 | [0119-pascals-triangle-ii](https://github.com/saif-pixel1/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0485-max-consecutive-ones](https://github.com/saif-pixel1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/saif-pixel1/DSA/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saif-pixel1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/saif-pixel1/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/saif-pixel1/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -33,9 +34,14 @@ DSA Question
 | ------- |
 | [0125-valid-palindrome](https://github.com/saif-pixel1/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/saif-pixel1/DSA/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/saif-pixel1/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/saif-pixel1/DSA/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
