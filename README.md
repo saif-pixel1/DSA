@@ -6,6 +6,7 @@ DSA Question
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/saif-pixel1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/saif-pixel1/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0485-max-consecutive-ones](https://github.com/saif-pixel1/DSA/tree/master/0485-max-consecutive-ones) |
@@ -32,6 +33,7 @@ DSA Question
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saif-pixel1/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/saif-pixel1/DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/saif-pixel1/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -45,6 +47,7 @@ DSA Question
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/saif-pixel1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
