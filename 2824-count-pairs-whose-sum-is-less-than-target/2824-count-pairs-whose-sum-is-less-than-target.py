@@ -1,8 +1,7 @@
 class Solution:
     def countPairs(self, nums: List[int], target: int) -> int:
         nums.sort()
-        l = 0 
-        r = len(nums) - 1
+        l = 0 ; r = len(nums) - 1
         count = 0 
         while l<r:
             if target > nums[l] + nums[r]:
