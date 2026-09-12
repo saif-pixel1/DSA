@@ -6,7 +6,6 @@ class Solution:
         while l<r:
             if x[l]=="-":
                 return False
-            
             if x[l] != x[r]:
                 return False
             l+=1
