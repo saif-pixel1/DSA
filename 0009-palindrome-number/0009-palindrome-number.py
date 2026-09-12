@@ -3,7 +3,6 @@ class Solution:
         l = 0
         x = str(x)
         r = len(x) - 1
-        
         while l<r:
             if x[l]=="-":
                 return False
